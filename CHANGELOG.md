@@ -121,6 +121,7 @@ The table below shows which release corresponds to each branch, and what date th
 - [#2647][2647] packing: Add `overlap` to overlap structures easily
 - [#2669][2669] asm: try native binutils before fallback architectures
 - [#2673][2673] Add libc module for libc-related functions
+- [#2679][2679] Add type hints to parts of pwnlib.utils
 - [#2680][2680] Cleanup Python 2 legacy
 - [#2683][2683] libc: add atexit functions for glibc exploits
 - [#2687][2687] Add (un)pack shorthands for 40-56 bit numbers `u48()`/`p48()`
@@ -186,6 +187,7 @@ The table below shows which release corresponds to each branch, and what date th
 [2647]: https://github.com/Gallopsled/pwntools/pull/2647
 [2669]: https://github.com/Gallopsled/pwntools/pull/2669
 [2673]: https://github.com/Gallopsled/pwntools/pull/2673
+[2679]: https://github.com/Gallopsled/pwntools/pull/2679
 [2680]: https://github.com/Gallopsled/pwntools/pull/2680
 [2683]: https://github.com/Gallopsled/pwntools/pull/2683
 [2687]: https://github.com/Gallopsled/pwntools/pull/2687
